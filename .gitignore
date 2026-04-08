@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.agent/
+build/
+dist/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+*.exe
+error_log.txt
+history.json
+GEMINI*.md
